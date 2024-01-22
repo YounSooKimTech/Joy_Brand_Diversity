@@ -1,5 +1,8 @@
 # Joy_Brand_Diversity
 
+## Political Orientation and Brands
+https://www.social-listening.org/
+
 ## Grocery Brand
 https://www.cnbc.com/2023/05/18/10-most-popular-grocery-chains-in-the-uscostco-didnt-make-the-cut.html
 
